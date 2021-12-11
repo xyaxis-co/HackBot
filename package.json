@@ -6,6 +6,7 @@
   "author": "harshalkaigaonkar <harshalkaigaonkar31@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "dependencies": {
