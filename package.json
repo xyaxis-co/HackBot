@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "lint": "eslint --fix"
   },
   "dependencies": {
     "@discordjs/builders": "^0.9.0",

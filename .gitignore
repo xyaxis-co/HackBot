@@ -1,2 +1,5 @@
+# Every Node App
 node_modules/
+
+# Contains Confidential Credentials 
 config.json
